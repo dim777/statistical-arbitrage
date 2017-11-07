@@ -1,0 +1,10 @@
+C:\Docs\projects\netcore\Sa\Sa\bin\Debug\netcoreapp2.0\Sa.deps.json
+C:\Docs\projects\netcore\Sa\Sa\bin\Debug\netcoreapp2.0\Sa.runtimeconfig.json
+C:\Docs\projects\netcore\Sa\Sa\bin\Debug\netcoreapp2.0\Sa.runtimeconfig.dev.json
+C:\Docs\projects\netcore\Sa\Sa\bin\Debug\netcoreapp2.0\Sa.dll
+C:\Docs\projects\netcore\Sa\Sa\bin\Debug\netcoreapp2.0\Sa.pdb
+C:\Docs\projects\netcore\Sa\Sa\obj\Debug\netcoreapp2.0\Sa.csproj.CoreCompileInputs.cache
+C:\Docs\projects\netcore\Sa\Sa\obj\Debug\netcoreapp2.0\Sa.AssemblyInfoInputs.cache
+C:\Docs\projects\netcore\Sa\Sa\obj\Debug\netcoreapp2.0\Sa.AssemblyInfo.cs
+C:\Docs\projects\netcore\Sa\Sa\obj\Debug\netcoreapp2.0\Sa.dll
+C:\Docs\projects\netcore\Sa\Sa\obj\Debug\netcoreapp2.0\Sa.pdb

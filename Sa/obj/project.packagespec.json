@@ -1,0 +1,37 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Docs\\projects\\netcore\\Sa\\Sa\\Sa.csproj",
+    "projectName": "Sa",
+    "projectPath": "C:\\Docs\\projects\\netcore\\Sa\\Sa\\Sa.csproj",
+    "outputPath": "C:\\Docs\\projects\\netcore\\Sa\\Sa\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "NLog": {
+          "target": "Package",
+          "version": "5.0.0-beta11"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
