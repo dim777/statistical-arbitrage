@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Sa/Program.cs" line="14" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="55a9207e-7c62-49e9-aa33-016d1deea1c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/bin/Debug/netcoreapp2.0/Sa.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/bin/Debug/netcoreapp2.0/Sa.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Debug/netcoreapp2.0/Sa.AssemblyInfoInputs.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Debug/netcoreapp2.0/Sa.csproj.CoreCompileInputs.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Debug/netcoreapp2.0/Sa.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Debug/netcoreapp2.0/Sa.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Sa.csproj.nuget.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Sa/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Sa/.idea/indexLayout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Sa/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Sa/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Sa/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Sa/riderModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/Program.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/Sa.csproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/bin/Debug/netcoreapp2.0/Sa.deps.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/bin/Debug/netcoreapp2.0/Sa.runtimeconfig.dev.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/bin/Debug/netcoreapp2.0/Sa.runtimeconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Debug/netcoreapp2.0/Sa.AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Debug/netcoreapp2.0/Sa.csproj.FileListAbsolute.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Sa.csproj.nuget.g.props" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/Sa.csproj.nuget.g.targets" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/project.assets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sa/obj/project.packagespec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Sa/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Sa/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/Sa/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <marker date="1510032218200" expanded="true" signature="6:25" ph="..." />
                 <marker date="1510032218200" expanded="true" signature="39:265" ph="{...}" />
@@ -160,12 +139,20 @@
       <updated>1509995276449</updated>
       <workItem from="1509995279335" duration="1448000" />
       <workItem from="1510000236125" duration="93000" />
-      <workItem from="1510000364668" duration="1966000" />
+      <workItem from="1510000364668" duration="2095000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1510032801445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510032801446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3507000" />
+    <option name="totallyTimeSpent" value="3636000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,6 +196,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -243,7 +234,7 @@
     <entry file="file://$PROJECT_DIR$/Sa/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <marker date="1510032218200" expanded="true" signature="6:25" ph="..." />
             <marker date="1510032218200" expanded="true" signature="39:265" ph="{...}" />
